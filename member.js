@@ -1,1 +1,1 @@
-function skillsMembgit add member.jser()
+function skillsMember()
